@@ -34,7 +34,7 @@ body {
 	/*background-image: url("images/background.jpg");
 	background-attachment: fixed;*/
 	
-	background-color: #3d2900;
+	background-color: #1B1C20;
 }
 
 .container {
@@ -60,7 +60,7 @@ header .container {
 	
 	box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 	/*background-image: url("images/header_background.png");*/
-	background-color: white;
+	background-color: #F8F9F4;
 }
 
 main {
