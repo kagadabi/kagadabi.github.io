@@ -31,8 +31,10 @@ body {
 	flex-direction: column;
 	align-items: center;
 	
-	background-image: url("images/background.jpg");
-	background-attachment: fixed;
+	/*background-image: url("images/background.jpg");
+	background-attachment: fixed;*/
+	
+	background-color: #3d2900;
 }
 
 .container {
@@ -57,7 +59,8 @@ header .container {
 	margin: 0 auto;
 	
 	box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-	background-image: url("images/header_background.png");
+	/*background-image: url("images/header_background.png");*/
+	background-color: white;
 }
 
 main {
@@ -66,7 +69,8 @@ main {
 
 main .container {
 	padding: 20px;
-	background-image: url("images/body_background.png");
+	/*background-image: url("images/body_background.png");*/
+	background-color: white;
 }	
 
 nav ul {
